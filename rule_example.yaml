@@ -1,4 +1,6 @@
 rules:
+  - DST-PORT,22,🎯 全球直连
+  - SRC-PORT,54003,🎯 全球直连
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-loopback,🎯 全球直连
