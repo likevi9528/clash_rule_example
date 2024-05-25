@@ -1880,6 +1880,7 @@ rules:
   - IP-CIDR,173.194.175.188/32,📢 谷歌FCM,no-resolve
   - IP-CIDR,173.194.218.188/32,📢 谷歌FCM,no-resolve
   - IP-CIDR,209.85.233.188/32,📢 谷歌FCM,no-resolve
+  - DOMAIN-SUFFIX,080210.xyz,🎯 全球直连
   - DOMAIN-SUFFIX,265.com,🎯 全球直连
   - DOMAIN-SUFFIX,2mdn.net,🎯 全球直连
   - DOMAIN-SUFFIX,alt1-mtalk.google.com,🎯 全球直连
